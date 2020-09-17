@@ -1,0 +1,103 @@
+.welcome{
+	display: inline-block;
+	margin-top: 30px;
+}
+
+
+h2{
+	margin: 2% 5% 0% 5%;
+}
+
+.pictureword{ 
+	background: lightcoral;
+	margin: 1% 5% 0% 5%;
+	padding: 3%;
+	;
+}
+
+
+.logo{
+	width: 15%;
+	height: 15%;
+}
+
+.city .carousel-caption{ 
+	margin-top: 25%;
+	margin-bottom: 25%;
+	margin-left: 0;
+	background: rgba(0, 0, 0, 0.5);
+}
+
+footer{
+	background: #303030;
+	color: white;
+	margin-left: 0;
+}
+
+#main {
+	margin-top: 0px;
+}
+
+/*PAGE 2*/
+
+
+
+#ramen{
+	width: 60%;
+	height:auto;
+	margin: 0% 25%;
+}
+
+#lastphoto{
+	margin-bottom: 50px;
+}
+
+/*PAGE 3*/
+
+.teehee{
+	margin-left: 45%;
+}
+
+#teebee{
+	margin-left: 40%;
+}
+
+#teecee{
+	margin-left: 50%
+}
+
+#carouselExampleFade{
+	margin-left: 35%;
+	margin-right: 0;
+}
+
+#dig{
+	background: rgba(0, 0, 0, 0.5)
+
+}
+
+#pig{
+	margin-left: 33%;
+}
+
+#sig{
+	margin-left: 20%;
+}
+
+#fig{
+	margin-left: 20%;
+}
+
+#itay{
+	margin-left:-50px;
+}
+
+#gift{
+	margin-left: 25%;
+}
+
+/*PAGE 4*/
+#lastpage{
+	background: rgba(0, 0, 0, 0.5);
+	margin:auto 35%;
+}
